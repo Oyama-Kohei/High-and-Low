@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">High_and_Low</string>
+    <string name="hit_text">HIT</string>
+    <string name="lose_text">LOSE</string>
+    <string name="high_text">High</string>
+    <string name="low_text">Low</string>
+    <string name="next_text">Next</string>
+</resources>
